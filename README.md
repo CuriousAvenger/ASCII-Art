@@ -1,4 +1,4 @@
-# ASCII
+# ASCII-Art
 ASCII program is an image to text converter, which converts any black and white images into Ascii Art.
 
 # How To Use:
