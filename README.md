@@ -3,7 +3,9 @@ ASCII program is an image to text converter, which attempts to convert any black
 
 # How To Use:
 git clone https://github.com/CuriousAvenger/ASCII-Art
+
 pip install -r requirements.txt
+
 python3 Main.py # Python3 Required
 
 # Instructions To View Image:
