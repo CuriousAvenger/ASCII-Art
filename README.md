@@ -4,7 +4,7 @@ ASCII program is an image to text converter, which converts any black and white 
 # How To Use:
 - git clone https://github.com/CuriousAvenger/ASCII-Art
 - pip install -r requirements.txt
-- python3 Main.py # Python3 Required
+- python3 AsciiArt.py # Python3 Required
 
 # Instructions To View Image:
 - Download the Image.txt File 
