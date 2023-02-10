@@ -16,4 +16,4 @@ ASCII program is an image to text converter, which converts any black and white 
 - Use Black and White Images Only
 - Make sure to Name Image correctly
 
-Note: Some images can be corrupted, which can lead to errors, so all images might not always work.
+Note: Some images can be corrupted, which can lead to errors, so all images might not always work. 
